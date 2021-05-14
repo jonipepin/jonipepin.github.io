@@ -58712,10 +58712,10 @@ case 1:return P.a7(q,r)}})
 return P.a8($async$hD,r)},
 R:function(a,b){var s,r,q,p,o=this,n=null
 o.a.toString
-s=T.a7o(L.vm("PepinOnline",n,A.mi(n,n,P.a75(154,205,50,1),n,n,n,n,n,"DroidLogo",n,n,n,n,n,n,n,!0,n,n,n,n,n,n),n),"title_text")
+s=T.a7o(L.vm("PepinOnline",n,A.mi(n,n,P.a75(50,222,132,1),n,n,n,n,n,"DroidLogo",n,n,n,n,n,n,n,!0,n,n,n,n,n,n),n),"title_text")
 r=t.fQ
 q=H.b([B.jw(n,Z.rx(C.qy),new A.a_y(o),n),B.jw(n,Z.rx(C.qx),new A.a_z(o),n),B.jw(n,Z.rx(C.qz),new A.a_A(o),n)],r)
-p=P.a75(154,205,50,1)
+p=P.a75(50,222,132,1)
 return M.acY(new E.qC(s,q,0,C.cz,new T.ek(p,n,n),!1,new P.R(1/0,56),n),T.zu(T.m3(T.Od(H.b([T.WG(H.b([R.abP(!1,K.qJ(100),!0,new K.zx(new L.mX("images/smedley.jpeg",n,n),80,n),n,!0,n,n,n,n,n,n,n,n,n,new A.a_B(o),n,n,n)],r),C.hQ,C.it,C.dk,n),new T.dI(new V.be(20,20,20,20),new M.Cf("I'm a former military officer and computer science professor. I'm fortunate to be able to combine my years of leadership experience as a commanding officer in the Marines with a depth of technical knowledge built through years in academia. I now leverage that experience to lead software engineering teams at Capital One, building our flagship mobile apps and delivering amazing user experiences daily to million of customers.\n\nI'm passionate about supporting the **developer community**, and when I'm not at work I'm an organizer for multiple groups in the DC area. I'm an official Google Developer Group organizer, and also organize three annual conferences: DevFestDC, Android Summit, and iOSDevCampDC. We host thousands of attendees each year and raise many thousands of dollars for donation to groups like [Women Who Code](https://www.womenwhocode.com/).\n\n",!0,n,n,n,new A.a_C(o),n,n,n,H.b([],t.p3),n,n,n,n,C.z2,C.zj,n),n)],r),C.hQ,C.it,C.dk),n,480),n,n))}}
 A.a_y.prototype={
 $0:function(){return P.bX([this.a.hD("https://twitter.com/jonipepin")],t.H)},
@@ -58751,8 +58751,7 @@ $C:"$4",
 $R:4,
 $S:374}
 F.Cv.prototype={
-R:function(a,b){var s="PepinOnline"
-return new S.ti(new F.tx(s,null),s,X.adl(null,C.zp,X.adv()),null)}}
+R:function(a,b){return new S.ti(new F.tx("PepinOnline",null),"Pepin",X.adl(null,C.zp,X.adv()),null)}}
 F.tx.prototype={
 aG:function(){return new F.IJ(C.m)}}
 F.IJ.prototype={
@@ -58773,7 +58772,7 @@ break
 case 1:return P.a7(q,r)}})
 return P.a8($async$jB,r)},
 R:function(a,b){var s=this,r=null,q=t.fQ
-return M.acY(r,T.zu(T.Od(H.b([T.a7o(L.vm(s.a.c,r,A.mi(r,r,P.a75(154,205,50,1),r,r,r,r,r,"DroidLogo",r,r,32,r,r,r,r,!0,r,r,r,r,r,r),r),"title_text"),T.WG(H.b([B.jw(r,Z.rx(C.qy),new F.a2f(s),r),B.jw(r,Z.rx(C.qx),new F.a2g(s),r),B.jw(r,Z.rx(C.qz),new F.a2h(s),r),B.jw(r,L.a7p(C.xH,r,r),new F.a2i(b),r)],q),C.hQ,C.it,C.dk,r)],q),C.hQ,C.it,C.dk),r,r))}}
+return M.acY(r,T.zu(T.Od(H.b([T.a7o(L.vm(s.a.c,r,A.mi(r,r,P.a75(50,222,132,1),r,r,r,r,r,"DroidLogo",r,r,32,r,r,r,r,!0,r,r,r,r,r,r),r),"title_text"),T.WG(H.b([B.jw(r,Z.rx(C.qy),new F.a2f(s),r),B.jw(r,Z.rx(C.qx),new F.a2g(s),r),B.jw(r,Z.rx(C.qz),new F.a2h(s),r),B.jw(r,L.a7p(C.xH,r,r),new F.a2i(b),r)],q),C.hQ,C.it,C.dk,r)],q),C.hQ,C.it,C.dk),r,r))}}
 F.a2f.prototype={
 $0:function(){return P.bX([this.a.jB("https://twitter.com/jonipepin")],t.H)},
 $C:"$0",
